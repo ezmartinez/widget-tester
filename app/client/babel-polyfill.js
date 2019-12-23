@@ -1,0 +1,14 @@
+require('babel-polyfill');
+/*
+require('react');
+require('react-dom');
+require('react-declarative-head');
+require('react-declarative-head');
+require('react-side-effect');
+require('serialize-javascript');
+require('nordic/script');
+require('nordic/style');
+require('nordic/i18n');
+require('nordic/i18n/I18nProvider');
+require('nordic/i18n/injectI18n');
+*/
